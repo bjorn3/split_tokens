@@ -1,0 +1,15 @@
+[package]
+name = "split_tokens"
+version = "0.1.0"
+authors = ["bjorn3"]
+
+description = "Split compound tokens in their individual parts."
+
+repository = "github.com/bjorn3/split_tokens"
+
+readme = "Readme.md"
+keywords = ["macro"]
+
+license = "GPL-3.0"
+
+[dependencies]
