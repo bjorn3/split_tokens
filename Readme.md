@@ -1,6 +1,8 @@
 Split compound tokens in their individual parts.
 ================================================
 
+# Development discontinued.
+
 Example
 -------
 
